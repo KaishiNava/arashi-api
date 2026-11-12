@@ -1,2 +1,0 @@
-# arashi-api
-my api
